@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 https://vsec7.github.io/
+
 2021 | Created with Love by Verry__D <3 Cath
+
 Sec7or - Surabaya Hacker Link
 
 <!--
