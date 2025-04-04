@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+https://vsec7.github.io/
+2021 | Created with Love by Verry__D <3 Cath
+Sec7or - Surabaya Hacker Link
+
 <!--
 **mission07/mission07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
